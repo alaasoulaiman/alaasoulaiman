@@ -1,0 +1,43 @@
+# Alaa Soulaiman
+
+Controls engineer in Waterloo, Ontario. I commission AMR fleets, PLC systems and vision
+inspection for automotive OEMs, and I build the software that sits on top of that world.
+
+Most industrial software is written by people who have never commissioned a line. I have, and
+I ship code.
+
+### What I work on
+
+**[MultiRobotFleet](https://github.com/alaasoulaiman/multirobotfleet)** — a vendor-neutral AMR
+fleet manager. Python and FastAPI, PostgreSQL, an embedded OPC UA server, an Omron FINS driver
+and MQTT, one dashboard across Omron, MiR and Otto robots plus the PLCs around them. 624
+automated checks and a 2.3 day unattended soak that found a real defect no unit test could.
+
+**[Control code is structured data](https://github.com/alaasoulaiman/sysmac-plcopen)** — what I
+found inside Omron's Sysmac project format, and a generator that emits PLCopen XML. Allen-Bradley
+`.L5X` is already XML and Siemens exposes TIA Openness, which makes diffing, migrating and
+generating control logic a tooling problem rather than a research problem.
+
+**[Multi-provider LLM router](https://github.com/alaasoulaiman/llm-router)** — eight providers
+with automatic failover, on-device models for sensitive data, and secret scanning before
+anything leaves the machine. Written after a benchmark taught me that a truncated answer read as
+a successful one is worse than an outage.
+
+### Day job
+
+Commissioned 17 AMRs and 14 pallet transfer stations for a DENSO facility, the highest system
+performance recorded there in four years of AMR production. Plant-wide AMR cart delivery at
+Toyota TMMK and Magna Electronics. Built the Ignition HMI framework my division deploys from.
+Keyence vision inspection to 0.01 mm, validated by GRR.
+
+### Tools
+
+Python, FastAPI, PostgreSQL, SQL, JavaScript, C, C++, Jython · OPC UA, MQTT, EtherNet/IP,
+Omron FINS, Modbus, REST · Allen-Bradley Studio 5000, Omron Sysmac, Siemens TIA Portal,
+CODESYS · Ignition, Aveva, FactoryTalk · LLM application development, multi-agent
+orchestration, MCP
+
+These repositories are showcases. The source for each is private because the work is
+commercial, and I am happy to walk through any of it directly.
+
+[LinkedIn](https://www.linkedin.com/in/alaasoulaiman)
