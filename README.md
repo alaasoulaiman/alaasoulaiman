@@ -18,11 +18,6 @@ found inside Omron's Sysmac project format, and a generator that emits PLCopen X
 `.L5X` is already XML and Siemens exposes TIA Openness, which makes diffing, migrating and
 generating control logic a tooling problem rather than a research problem.
 
-**[Multi-provider LLM router](https://github.com/alaasoulaiman/llm-router)** — eight providers
-with automatic failover, on-device models for sensitive data, and secret scanning before
-anything leaves the machine. Written after a benchmark taught me that a truncated answer read as
-a successful one is worse than an outage.
-
 ### Day job
 
 Commissioned 17 AMRs and 14 pallet transfer stations for a DENSO facility, the highest system
