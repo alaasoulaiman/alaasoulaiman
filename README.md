@@ -13,11 +13,6 @@ fleet manager. Python and FastAPI, PostgreSQL, an embedded OPC UA server, an Omr
 and MQTT, one dashboard across Omron, MiR and Otto robots plus the PLCs around them. 624
 automated checks and a 2.3 day unattended soak that found a real defect no unit test could.
 
-**[Control code is structured data](https://github.com/alaasoulaiman/sysmac-plcopen)** — what I
-found inside Omron's Sysmac project format, and a generator that emits PLCopen XML. Allen-Bradley
-`.L5X` is already XML and Siemens exposes TIA Openness, which makes diffing, migrating and
-generating control logic a tooling problem rather than a research problem.
-
 ### Day job
 
 Commissioned 17 AMRs and 14 pallet transfer stations for a DENSO facility, the highest system
