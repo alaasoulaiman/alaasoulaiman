@@ -1,6 +1,6 @@
 # Alaa Soulaiman
 
-Controls engineer in Waterloo, Ontario. I commission AMR fleets, PLC systems and vision
+Controls Software Designer in Waterloo, Ontario. I commission AMR fleets, PLC systems and vision
 inspection for automotive OEMs, and I build the software that sits on top of that world.
 
 Most industrial software is written by people who have never commissioned a line. I have, and
