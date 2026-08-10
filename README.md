@@ -3,10 +3,7 @@
 Controls Software Designer in Waterloo, Ontario. I commission AMR fleets, PLC systems and vision
 inspection for automotive OEMs, and I build the software that sits on top of that world.
 
-Most industrial software is written by people who have never commissioned a line. I have, and
-I ship code.
-
-### What I work on
+### What I worked on
 
 **[MultiRobotFleet](https://github.com/alaasoulaiman/multirobotfleet)** — a vendor-neutral AMR
 fleet manager. Python and FastAPI, PostgreSQL, an embedded OPC UA server, an Omron FINS driver
@@ -15,10 +12,8 @@ automated checks and a 2.3 day unattended soak that found a real defect no unit 
 
 ### Day job
 
-Commissioned 17 AMRs and 14 pallet transfer stations for a DENSO facility, the highest system
-performance recorded there in four years of AMR production. Plant-wide AMR cart delivery at
-Toyota TMMK and Magna Electronics. Built the Ignition HMI framework my division deploys from.
-Keyence vision inspection to 0.01 mm, validated by GRR.
+Plant-wide AMR cart delivery at Toyota TMMK and Magna Electronics. Built the Ignition HMI framework my division deploys from.
+Keyence vision inspection to 0.01 mm, validated by GRR. AMR Upgrades and Retrofits to plant machines.
 
 ### Tools
 
